@@ -4,5 +4,4 @@ import "fmt"
 
 func TestSomething(t *testing.T) {
 	fmt.Println(logo)
-	t.FailNow()
 }
